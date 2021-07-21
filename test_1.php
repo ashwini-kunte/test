@@ -10,5 +10,5 @@ for($i=0;$i <=5;$i++){
 	}
 	echo "<br>";
 	
-}rghb
+}test
 ?>
